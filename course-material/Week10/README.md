@@ -59,24 +59,23 @@
 
 - 10:00 - 11:00
 
-  -  HTML Forms
+  - 
 
 - 11:00 - 12:00
-  -  [HTML Entities](./HTMLEntities.md).
+  -  
 
 - 12:00 - 13:00
-  - HTML table
-
+  - 
  - 13:00 - 14:00
-  - HTML Favicon
+  - 
 
 — BREAK —
 
  - 14:30 - 15:00
-  - HTML Style 
+  - 
 
  - 15:00 - 15:30
-  - Quiz 
+  - 
 
 
 
