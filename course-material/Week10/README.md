@@ -22,11 +22,13 @@
   
 
 - 10:00 - 11:00
-  - Free code camp 
+   - Free code camp 
+
  - 11:00 - 13:00
-  - project presentation
+    - project presentation
+
  - 13:00 - 14:00
-  - [Terminal](./terminal.md)
+    - [Terminal](./Terminal.md)
 
 — BREAK —
 
