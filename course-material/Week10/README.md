@@ -22,35 +22,21 @@
   
 
 - 10:00 - 11:00
-
-  - Projects
+  - Free code camp 
+ - 11:00 - 13:00
+  - project presentation
+ - 13:00 - 14:00
+  - [Terminal](./terminal.md)
 
 — BREAK —
 
 - 15:00 - 17:00
-  - Communication 
+  - Entrep 
 
 
 
 ## Day 2
  
-- 10:00 - 12:00
-
-  -  presentation 
-
-- 11:00 - 12:00
-  - [HTML Formatting](./HTMLFormat.md)
-
-- 12:00 - 14:30
-  - [Terminal](Terminal.md)
-— BREAK —
-
-- 14:00 - 16:00
-  - [Git & Github](Git%26Github.md) 
-
-- 15:00 - 15:30
-  - [HTML classes & ID’s](./classes%26ids.md)   
-
 
 
 
