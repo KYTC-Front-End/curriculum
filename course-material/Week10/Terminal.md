@@ -86,19 +86,19 @@ When we specify a path starting from the **root directory** `/`, we call that an
 
 For example, if I am **currently** in the `~` home directory and I want to navigate to one of the directories inside **Desktop** folder, I can do that in two of the following ways:
 
-**1- Absolute Path:** starting from the root (first **/**, then **home**, then **ali**, then **Desktop**)
+**1- Absolute Path:** starting from the root (first **/**, then **c**, then **users**, then **yasmeen**, then **Desktop**)
 
 ```bash
-cd /home/ali/Desktop
+cd /c/users/yasmeen/Desktop
 ```
 
 **in your case**
 
 ```bash
-cd /home/$USER/Desktop
+cd /c/users/$USER/Desktop
 ```
 
-**_Note:_** `$USER` is an environment variable in your shell that keeps track of the current user of the shell. You can know who is the current user by using the command `whoami`
+
 
 **2- Relative path:** relative to where I am currently
 
@@ -246,11 +246,13 @@ cp -r PATH_TO_ORIGINAL_FOLDER PATH_TO_COPIED_FOLDER
 
 ### 6- Open files:
 
-If you would like to open up a file, you can use the `xdg-open` command.
+If you would like to open up a file, you can use the `start` command.
 
 ```bash
-xdg-open PATH_TO_FILE_TO_OPEN
+start PATH_TO_FILE_TO_OPEN
 ```
+
+**Note : in Linux used `xdg-open` command 
 
 ### 7- Displaying Contents Of A File:
 
@@ -314,7 +316,7 @@ rm -rf FOLDER_NAME
 
 🚨🚨🚨🚨💀🚨🚨🚨🚨
 
-### 9- Moving Files To Trash:
+### 9- Moving Files To Trash in Linux:
 
 To move files or directories to the trash, use `gio trash` command.
 
@@ -324,10 +326,8 @@ gio trash FOLDER_NAME_OR_FILE_NAME
 
 ---
 
-To learn more about any command and it's flags, use `man` command which is short for **_"manual"_**.
 
-For example, to know more about `cp` command you can type `man cp`, use the arrow keys to move up and down. When you're finished, press `q` to quit.
 
----
+
 
 Now let's do some **exercises**
