@@ -173,4 +173,6 @@ In the frame is **w3school's** Band template, you can check the demo [here](http
 [Smashing Magazine - Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
 [Rithmschool - Responsive Design](https://www.rithmschool.com/courses/intermediate-css-bootstrap/responsive-design)
+
+
 [Responsive images](https://css-tricks.com/responsive-images-css/)
