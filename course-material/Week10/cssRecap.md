@@ -115,31 +115,8 @@ div p span {
 > In the example above we have div element what has a p element inside it and a span element, as you may have noticed that the em unit when setting the font-size it was relative to the parent element but when setting the padding(a length) it was relative to the font-size of the element itself, and the rem was always relative to the root element font-size
 
 
-### 4. Responsive images
-There are two approaches to use images in your web page:
-- Using the `<img />` tag 
-- Setting it as a background for a `div`
 
-When using images you want to make sure that they scale up and down or at least scale down so they don't look bad on smaller screens 
-
-To scale it both up and down, we set the width to 100%:
-```css
-.responsive-img {
-  width: 100%;
-}
-```
-
-To scale it only down, we set the max-width to 100%
-
-```css
-.responsive-img {
-  max-width: 100%;
-}
-```
-
-There is more about responsive images, I just mentioned the basics of it in this workshop, for more checkout [this blog post](https://css-tricks.com/responsive-images-css/) on responsive images 
-
-### 5. Responsive Design Strategies
+### 4. Responsive Design Strategies
 
 **Desktop First**
 - Start writing CSS for the desktop: large screen
@@ -156,7 +133,7 @@ It depends on your project and the users devices, for example, mobile-first apps
 
 ![Desktop VS Mobile](https://i.imgur.com/3gkoQvX.jpg)
 
-### 6. Testing your media queries
+### 5. Testing your media queries
 
 We test out our web pages using the dev tools in Chrome or in any browser you prefer, for this small exercise go on any responsive web page to carry on
 
@@ -196,3 +173,4 @@ In the frame is **w3school's** Band template, you can check the demo [here](http
 [Smashing Magazine - Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
 [Rithmschool - Responsive Design](https://www.rithmschool.com/courses/intermediate-css-bootstrap/responsive-design)
+[Responsive images](https://css-tricks.com/responsive-images-css/)
