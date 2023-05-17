@@ -66,11 +66,10 @@
 
 — BREAK —
 
- - 15:00 - 16:00
-  - CSS Recap
+ - 15:00 - 17:00
+  - [CSS Recap](./cssRecap.md)
 
- - 15:00 - 15:30
-  - 
+
 
 
 
