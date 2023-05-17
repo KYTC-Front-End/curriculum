@@ -24,8 +24,8 @@ The **terminal** refers to a **wrapper** program which runs a **shell**.
 In Terminal, all files and folders begin at the root directory. The root directory is noted by a `/`.
 
 Inside the root directory are essential files/folders that your machine needs, but we do not modify the files and the folders in the root directory often. Inside of the root directory, we have a folder called `home` which contains all of the user accounts on your computer.
-If you move into the directory for your user account, you will be in the `home` directory, which is denoted by `~`.
-For example, if my user name on the computer is `ali`, then your home directory would be `/home/ali`. A synonym for the `/home/ali` path is `~` when you are logged in as `ali`.
+If you move into the directory for your user account, you will be in the `users` directory, which is denoted by `~`.
+For example, if my user name on the computer is `yasmeen`, then your home directory would be `/c/users/yasmeen`. A synonym for the `/c/users/yasmeen` path is `~` when you are logged in as `yasmeen`.
 
 ---
 
