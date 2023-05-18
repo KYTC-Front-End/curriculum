@@ -15,4 +15,4 @@
  - [Week7- CSS week](/course-material/Week7)
 - [Week8- CSS week](/course-material/Week8)
  - [Week9- Project  week](/course-material/Week9)
- - [Week10- Terminal week](/course-material/Week10)
+ - [Week11- Terminal week](/course-material/Week10)
