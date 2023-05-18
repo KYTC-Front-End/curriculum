@@ -70,7 +70,7 @@
   - [CSS Recap](./cssRecap.md)
   
 - 16:00 - 17:00
-  - search jobs 
+  - freelancing platforms BIO
 
 
 
