@@ -78,7 +78,7 @@ git log  // Show commit logs
 
 ![drawing](https://i.stack.imgur.com/UvZ0M.png)
 
-- Let's do an [exercise](./exercises/ex1.md)
+- Let's do an [exercise](./exercise/one.md)
 
 ---
 
@@ -88,7 +88,7 @@ git log  // Show commit logs
 
 ![g10](https://user-images.githubusercontent.com/42492094/123519777-f7380380-d6b5-11eb-8215-0343dbbc3f66.png)
 
-- Let's do an [exercise](./exercises/ex2.md)
+- Let's do an [exercise](./exercise/two.md)
 
 ---
 
@@ -107,7 +107,7 @@ git checkout -b <branch-name>  // Create and go into the new branch
 git pull origin main  // Fetch changes from a remote repository into the current branch `main`
 ```
 
-- Let's do an [exercise](./exercises/ex3.md)
+- Let's do an [exercise](./exercise/three.md)
 
 ---
 
@@ -117,4 +117,4 @@ Recently on OCT/2020 , the default branch name changed on GitHub to be `main` in
 
 ---
 
-#### Git and GitHub [Glossary](./exercises/glossary.md)
+
