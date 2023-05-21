@@ -16,5 +16,5 @@
 - [Week8- CSS week](/course-material/Week8)
  - [Week9- Project  week](/course-material/Week9)
  - Week10- project presentation
- - [Week11- Advanced CSS week](/course-material/Week10)
+ - [Week11- Advanced CSS week](/course-material/Week11)
 - [Week12- Terminal week](/course-material/Week12)
