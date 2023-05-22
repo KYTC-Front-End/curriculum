@@ -43,14 +43,12 @@
   - Git Exercise 
  
 - 11:00 - 14:00
-  - Intro to Js
-  - Variables 
-  - Data Types in Js
+  - [Intro to Js](./Intro-to-js.md)
+  - [Variables](./variablesandConstant.md) 
+  - [Data Types in Js](./datatypes.md)
 
 — BREAK —
-- 15:00 - 16:30
-
-- 16:30 - 17:00
+- 15:00 - 17:30
  - [Project]
 
 ## Day 3
