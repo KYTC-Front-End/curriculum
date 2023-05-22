@@ -1,5 +1,5 @@
 
-# Fundamental Week!
+# Javascript  Week!
 
 > Great things are done by a series of small things brought together
 
@@ -22,10 +22,11 @@
   
 
 - 10:00 - 11:00
-   - [Morning Challenge](https://hackmd.io/kQio8HXGSzy2PGisL30OIg?view)
+   - [Morning Challenge]()
 
- - 11:00 - 12:00
-  - freelancing platforms BIO
+ - 11:00 - 13:00
+  - [Variables](./variablesandConstant.md) 
+  - [Data Types in Js](./datatypes.md)
 
 - 12:00 - 14:00
   - [Into to Git](./Git%26Github.md)
@@ -40,23 +41,21 @@
 ## Day 2
  
 - 10:00 - 11:00
-  - Git/Github
+  - Git Exercise 
  
-- 11:00 - 12:00
+- 11:00 - 14:00
   - [Intro to Js](./Intro-to-js.md)
- - 12:00 - 14:00
-  - [Git workshop](./Gitworkshop.md)
+  - [Variables](./variablesandConstant.md) 
+  - [Data Types in Js](./datatypes.md)
+
 — BREAK —
 - 15:00 - 17:30
  - [Project]
 
 ## Day 3
  
-- 10:00 - 15:00
+- 10:00 - 17:00
   - Project 
-
-- 15:00 - 17:00
-  - Project presentation
 
 
 
