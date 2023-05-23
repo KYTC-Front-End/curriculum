@@ -46,9 +46,11 @@
   - [Intro to Js](./Intro-to-js.md)
  - 12:00 - 14:00
   - [Git workshop](./Gitworkshop.md)
+
 — BREAK —
+
 - 15:00 - 17:30
- - [Project]
+ - [Project](./Project.md)
 
 ## Day 3
  
