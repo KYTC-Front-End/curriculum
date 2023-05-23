@@ -8,8 +8,6 @@ You can check project details Here [Recipe Project](https://docs.google.com/docu
 --------------------------------------------------------------------------------
 
 ## 📍 Project Tips:
-
-- The result should be the same as the design we handed to you.
 - The project score will depend on:
 
   - Git/GitHub workflow
