@@ -42,9 +42,7 @@
 - 10:00 - 11:00
   - Git/Github
  
-- 11:00 - 12:00
-  - [Intro to Js](./Intro-to-js.md)
- - 12:00 - 14:00
+ - 11:00 - 14:00
   - [Git workshop](./Gitworkshop.md)
 
 — BREAK —
