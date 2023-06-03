@@ -18,3 +18,7 @@
  - Week10- project presentation
  - [Week11- Advanced CSS week](/course-material/Week11)
 - [Week12- Terminal week](/course-material/Week12)
+- [Week13- Git and Github week](/course-material/Week13)
+- [Week14- Intro to Javascript week](/course-material/Week14)
+
+
