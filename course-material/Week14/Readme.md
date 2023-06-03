@@ -39,8 +39,7 @@
   -  Morning challenge 
  
 - 11:00 - 14:00
-  - [Variables](./variablesandConstant.md) 
-  - [Data Types in Js](./datatypes.md)
+
 
 — BREAK —
 - 15:00 - 17:00
