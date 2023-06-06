@@ -35,21 +35,41 @@
 
 ## Day 2
  
-- 10:00 - 11:00
-  -  Morning challenge 
+- 10:00 - 10:30
+  -  [Morning challenge](./callenge.md)
  
-- 11:00 - 14:00
-  - [Variables](./variablesandConstant.md) 
-  - [Data Types in Js](./datatypes.md)
+- 10:30 - 11:00
+  - [Interaction: alert, prompt, confirm](./interaction.md)
+
+- 11:00 - 13:00
+  - [String Concatenation](./concat.md)
+  - [String Methods](./stringMethods.md)
 
 — BREAK —
 - 15:00 - 17:00
-
+  - Intro to Function 
+  - Arrays 
+  - Manipulating Arrays
 
 ## Day 3
  
-- 10:00 - 17:00
-  - Project 
+- 10:00 - 11:00
+  - Morning Challenge 
+
+- 11:00 - 13:00 
+   - Objects 
+
+- 13:00 - 14:00 
+   - Assignment
+
+— BREAK —
+
+13:00 - 16:00 
+  - arrow function 
+  - Loops 
+
+16:00 - 17:00 
+   - Scope 
 
 
 
