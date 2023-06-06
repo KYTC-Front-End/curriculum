@@ -15,6 +15,8 @@ true + false
 "  -9  " - 5
 null + 1
 undefined + 1
+"apple" > "pineapple"
+"2" > "12"
 ---
 
 
