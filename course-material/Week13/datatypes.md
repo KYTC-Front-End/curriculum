@@ -199,7 +199,5 @@ bool.toString(); // "false"
 
 ## Practice Time 👨‍💻
 
-1. Follow the following [instructions](https://repl.it/@CodeAcademy1/Data-Type#instructions.md), then write your code inside the [index](https://repl.it/@CodeAcademy1/Data-Type#index.js) file.
 
-2. Now let's practice `Numbers` and `Concatenation`🤔. Follow the [instructions](https://repl.it/@CodeAcademy1/Numbers-and-Concatenation#instructions.md), then write your code inside the [index](https://repl.it/@CodeAcademy1/Numbers-and-Concatenation#index.js) file.
 

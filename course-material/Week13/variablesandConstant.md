@@ -140,5 +140,4 @@ let favFootballTeam;
 
 ## Practice Time 👨‍💻
 
-Follow the following [instructions](https://repl.it/@CodeAcademy1/Declaring-Variables#instructions.md), then write your code inside the [index](https://repl.it/@CodeAcademy1/Declaring-Variables#index.js) file.
 
