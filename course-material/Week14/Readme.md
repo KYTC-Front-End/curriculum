@@ -47,7 +47,7 @@
 
 — BREAK —
 - 15:00 - 17:00
-  - Intro to Function 
+  - [Intro to Function](./function.md)
   - Arrays 
   - Manipulating Arrays
 
