@@ -3,33 +3,50 @@
 
 
 "" + 1 + 0
+
 "" - 1 + 0
+
 true + false
+
 6 / "3"
+
 "2" * "3"
+
 4 + 5 + "px"
+
 "$" + 4 + 5
+
 "4" - 2
+
 "4px" - 2
+
 "  -9  " + 5
+
 "  -9  " - 5
+
 null + 1
+
 undefined + 1
+
+
 "apple" > "pineapple"
+
 "2" > "12"
+
 ---
 
 
 Use switch statement to determine the grade of the student depending on a given final mark.
 Given :
 
-finalMArk = 65
+finalMark = 65
 
 finalMark >= 90 console 'grade is A'
 finalMark >= 80 console 'grade is B'
 finalMark >= 70 console 'grade is C'
 finalMark >= 60 console 'grade is D'
 else console 'failed'
+
 ---
 
 Use the `switch` case statement to write a script that outputs the number of days in a month based on the input month and year.
@@ -52,6 +69,7 @@ Using if..else, write the code which gets a number via prompt and then shows in 
 -1, if less than zero,
 0, if equals zero.
 In this task we assume that the input is always a number.
+
 ---
 
 Rewrite this if using the conditional operator '?':
@@ -62,7 +80,9 @@ if (a + b < 4) {
 } else {
   result = 'Over';
 }
+
 ---
+
 Bonus : 
 Rewrite if..else using multiple ternary operators '?'.
 
@@ -78,4 +98,5 @@ if (login == 'Employee') {
 } else {
   message = '';
 }
+
 ---
