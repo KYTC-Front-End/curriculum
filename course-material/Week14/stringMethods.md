@@ -246,7 +246,7 @@ Let’s recap these methods to avoid any confusion:
 
 
 
-Strings also have methods for doing search/replace with regular expressions. But that’s big topic, so it’s explained in a separate tutorial section [Regular expressions](https://javascript.info/regular-expressions).
+Strings also have methods for doing search/replace with regular expressions. But that’s big topic, so it’s explained in a separate tutorial section [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions).
 
 
 There are several other helpful methods in strings:

@@ -48,8 +48,7 @@
 — BREAK —
 - 15:00 - 17:00
   - [Intro to Function](./function.md)
-  - Arrays 
-  - Manipulating Arrays
+
 
 ## Day 3
  
@@ -57,7 +56,9 @@
   - Morning Challenge 
 
 - 11:00 - 13:00 
-   - Objects 
+    - [Arrays](./array.md)
+  - Manipulating Arrays
+    - [Objects](./object.md) 
 
 - 13:00 - 14:00 
    - Assignment
@@ -68,8 +69,8 @@
   - arrow function 
   - Loops 
 
-16:00 - 17:00 
-   - Scope 
+16:30 - 17:00 
+   - [Scope](./scope.md) 
 
 
 
