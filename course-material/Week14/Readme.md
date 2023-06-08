@@ -60,14 +60,11 @@
   - Manipulating Arrays
     - [Objects](./object.md) 
 
-- 13:00 - 14:00 
-   - Assignment
-
 — BREAK —
 
 13:00 - 16:00 
-  - arrow function 
-  - Loops 
+  - [arrow function](./arrow.md) 
+  - [Loop](./loop.md)
 
 16:30 - 17:00 
    - [Scope](./scope.md) 
