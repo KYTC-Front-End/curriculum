@@ -62,12 +62,11 @@
 
 — BREAK —
 
-13:00 - 16:00 
+13:00 - 17:00 
   - [arrow function](./arrow.md) 
   - [Loop](./loop.md)
 
-16:30 - 17:00 
-   - [Scope](./scope.md) 
+
 
 
 

@@ -48,7 +48,7 @@
 ## Day 3
  
 - 10:00 - 17:00
-  - Project 
+  - Assignment 
 
 
 
