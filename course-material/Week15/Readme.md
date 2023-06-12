@@ -42,7 +42,7 @@
   - split and join 
 
 - 12:00 - 14:00
-  - [Intro to Dom ](./concat.md)
+  - [Intro to Dom ](./introToDom.md)
 
 — BREAK —
 - 15:00 - 17:00
