@@ -63,6 +63,7 @@ We have this html code
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Introduction To DOM</title>
+    <script src="dom.js"></script>
   </head>
   <body>
     <table>
@@ -72,9 +73,9 @@ We have this html code
         <th>contact</th>
       </tr>
       <tr>
-        <td>Fundamentals-course</td>
-        <td>GSG</td>
-        <td>Mohammed</td>
+        <td> Front end course</td>
+        <td>KYTC</td>
+        <td>yasmeen</td>
       </tr>
     </table>
   </body>
