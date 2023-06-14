@@ -10,7 +10,7 @@
   
 
 
-- [Resources.](./resources.md)
+- [Resources.](./Resourses.md)
 - [Research Topics](./research-topics.md)
 
   
@@ -45,22 +45,26 @@
   - [Intro to Dom ](./introToDom.md)
 
 — BREAK —
-- 15:00 - 17:00
+- 15:00 - 16:00
   - [DOM Manipulations](./domMinpluation.md)
 
-
+- 16:00 - 17:00
+  - search jobs
 ## Day 3
  
 - 10:00 - 11:00
-  - Morning Challenge 
+  - [Dom Morning Challenge](https://github.com/yasmeenattallah/DOM-manipulation-Challenge)
 
 - 11:00 - 13:00 
+   - [Array Iterator Methods](./iteratorMethod.md)
 
+- 13:00 - 14:00 
+   - [clean code](./cleanCode.md)
 
 — BREAK —
 
-13:00 - 17:00 
-  - 
+15:00 - 16:00 
+  - [Dom exercise](./domExercies.md)
   - 
 
 

@@ -20,5 +20,5 @@
 - [Week12- Terminal week](/course-material/Week12)
 - [Week13- Git and Github week](/course-material/Week13)
 - [Week14- Intro to Javascript week](/course-material/Week14)
-- [Week15- Intro to Javascript week](/course-material/Week15/)
+- [Week15- Intro to Dom ](/course-material/Week15/)
 
