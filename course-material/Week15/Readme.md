@@ -63,10 +63,11 @@
 
 — BREAK —
 
-15:00 - 16:00 
+- 15:00 - 16:00 
   - [Dom exercise](./domExercies.md)
-  - 
-
+ 
+- 16:00 - 17:00 
+  - Search Jobs 
 
 
 
