@@ -26,6 +26,14 @@
 
 - 11:00 - 12:00
    - [Local Storage](./localStorage.md)
+
+- 12:00 - 13:00
+   - [Intro to project](./project.md)   
+
+- 13:00 - 14:00
+   - project  
+
+
 — BREAK —
 
 - 15:00 - 17:00
