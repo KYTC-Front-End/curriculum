@@ -21,4 +21,7 @@
 - [Week13- Git and Github week](/course-material/Week13)
 - [Week14- Intro to Javascript week](/course-material/Week14)
 - [Week15- Intro to Dom ](/course-material/Week15/)
+- [Week16- Project ](/course-material/Week16/)
+- [Week17- Bootstrap ](/course-material/Week17/)
+  
 
