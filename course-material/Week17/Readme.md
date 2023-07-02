@@ -14,12 +14,11 @@
 
   ## Day 2
  
-- 10:00 - 1:00
+- 10:00 - 14:00
   -  project
 
 
-- 12:00 - 14:00
-  - [callback Functions](./functions.md) 
-
-
 — BREAK —
+
+- 15:00 - 17:00
+  - English skills 
