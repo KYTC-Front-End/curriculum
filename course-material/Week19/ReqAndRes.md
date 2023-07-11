@@ -10,7 +10,7 @@
 
 Request/response is a pattern that's central to making API requests. 
 
-![client-server-image](https://developer.mozilla.org/files/4291/client-server.png)
+![client-server-image](https://www.easeus.com/images/en/wiki-news/what-is-client-server-network.png)
 
 A familiar example of request and response is when you open your browser, type in
 a url and hit enter. What you're doing is opening a connection between your
