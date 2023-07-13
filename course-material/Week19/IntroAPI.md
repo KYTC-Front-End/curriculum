@@ -26,9 +26,9 @@ Read each section and be ready to answer questions
 
 2. [HTTP](./http.md)  
 
-3. [XMLHttpRequests]()  
+3. [XMLHttpRequests](./xhr.md)  
 
-4. [Asynchronous code]()  
+4. [Asynchronous code](./asyncApi.md)  
 
 5. [Fix a broken API request]()  
     - You will need to clone the repository and work on the code locally
