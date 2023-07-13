@@ -114,7 +114,7 @@ popular form of data which is why we are focusing on this response type in this 
 1. Open the link below in a new browser window. The url will make an api request
    to api.giphy.com. You'll see the parsed response object in the browser
    window:\
-   http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC
+  https://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=A10X4E3kV0XN8J5lpJVZ3Pgk5aosmzo8
 2. Take a look at the data that's displayed in your browser. This is what a
    response object looks like. Click on some of the links and see what happens.
 3. Take a look at the api url. You don't need to understand it all right away
