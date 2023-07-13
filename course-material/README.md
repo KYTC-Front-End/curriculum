@@ -23,5 +23,8 @@
 - [Week15- Intro to Dom ](/course-material/Week15/)
 - [Week16- Project ](/course-material/Week16/)
 - [Week17- Bootstrap ](/course-material/Week17/)
+- [Week18- Advanced JS  ](/course-material/Week18/)
+- [Week19- API ](/course-material/Week19/)
+
   
 
