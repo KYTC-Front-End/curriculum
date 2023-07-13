@@ -12,7 +12,7 @@ When sending an API request, we use a URL to identify the specific server where 
 
 The image below labels the parts of a url. DNS uses the resource name to look up the server to which the request is addressed. Anything beyond the resource name is part of the query or filepath the specifies exactly what data or resources are being requested.
 
-![parts of a url image](./u.png)  
+![parts of a url image](./url.png)  
 
 ### Other transfer protocols
 There are many other communication protocols, including FTP (file transfer protocol), SMTP (Simple Mail Transfer Protocol) and IMAP (Internet Message Access Protocol).   
