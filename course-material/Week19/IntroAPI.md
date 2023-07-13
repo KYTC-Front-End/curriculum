@@ -30,11 +30,7 @@ Read each section and be ready to answer questions
 
 4. [Asynchronous code](./asyncApi.md)  
 
-5. [Fix a broken API request]()  
-    - You will need to clone the repository and work on the code locally
-      - Otherwise, use:`git clone https://github.com/`
-    - Open index.html in the browser and you will see that the API request is not working
-    - Open main.js and look for what's broken or missing in the code. If you're confused, check it line-by-line against the description of XHR in [this file]()
+5. Task : make an API request using [giphy API](https://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=A10X4E3kV0XN8J5lpJVZ3Pgk5aosmzo8) and display all cat images 
 
 
 ### Follow up and further learning

@@ -50,24 +50,24 @@
   
 — BREAK —
 - 15:00 - 17:00
-  -
+  - search jobs 
 
 
 ## Day 3
  
 - 10:00 - 11:00
-  - 
+  - [Request and response](./ReqAndRes.md)
 
 - 11:00 - 13:00 
-    - 
-  - 
-    - 
+    - [Http](./http.md)  
 
+ - 13:00 - 14:00 
+    - [XHR Request](./xhr.md) 
+       
 — BREAK —
 
 13:00 - 17:00 
-  - 
-  - 
+  - task 
 
 
 
