@@ -25,7 +25,7 @@
 - [Week17- Bootstrap ](/course-material/Week17/)
 - [Week18- Advanced JS  ](/course-material/Week18/)
 - [Week19- API ](/course-material/Week19/)
-- [Week20- API ](/course-material/Week20/)
+- [Week20- NPM ](/course-material/Week20/)
 
   
 
