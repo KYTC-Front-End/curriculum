@@ -8,9 +8,9 @@ We will briefly outline the idea here, but for more detail, the following articl
 * [The module pattern in depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 
 ## How to create a Module?
-The module pattern exploits the technique of creating a [closure](../../stage-1/closures-and-scope) to create variables which can by used by the module, but not directly by any of the code outside it.
+The module pattern exploits the technique of creating a closure to create variables which can by used by the module, but not directly by any of the code outside it.
 
-This can be used as a way to build [abstractions](../../stage-1/abstraction-with-functions) which present simple interfaces to the developer and hides away implementation details and complexity.
+This can be used as a way to build [abstractions](./abstraction.md) which present simple interfaces to the developer and hides away implementation details and complexity.
 
 We can illustrate this with an example creating a simple calculator:
 
