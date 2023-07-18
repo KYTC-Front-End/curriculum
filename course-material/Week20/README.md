@@ -37,7 +37,7 @@
 ## Day 2
  
 - 10:00 - 12:00
-  -  Promise & Fetch 
+  -  [Module Pattern](./module.md)
  
 - 12:00 - 14:00
  - js Classes 
