@@ -40,29 +40,29 @@
   -  [Module Pattern](./module.md)
  
 - 12:00 - 14:00
- - js Classes 
+ - [module exercise](https://github.com/KYTC-Front-End/module-ex)
 
 — BREAK —
 
 - 15:00 - 17:00
-  - React Installation
+  - Portfolio development 
 
 
 ## Day 3
  
-- 10:00 - 10:30
-  - library Vs Frameworks
+- 10:00 - 12:00
+  - Promise
 
-- 11:00 - 13:00 
-    -  
-
- - 13:00 - 14:00 
-    - 
+- 12:00 - 14:00 
+    -  Fetch
 
 — BREAK —
 
-13:00 - 17:00 
-  -  
+13:00 - 16:00 
+  -  library Vs Frameworks
+
+16:00 - 17:00 
+  -  React installation 
 
 
 
