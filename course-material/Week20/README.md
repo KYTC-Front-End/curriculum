@@ -62,7 +62,7 @@
 — BREAK —
 
 15:00 - 16:00 
-  -  library Vs Frameworks
+  -  [library Vs Frameworks](https://www.sencha.com/blog/difference-between-framework-vs-library-snc/)
 
 16:00 - 17:00 
   -  React installation 
