@@ -51,7 +51,7 @@
 ## Day 3
  
 - 10:00 - 12:00
-  - Promise
+  - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 - 12:00 - 13:00 
     -  Fetch
