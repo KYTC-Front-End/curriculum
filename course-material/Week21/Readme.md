@@ -1,5 +1,5 @@
 
-# Javascript  Week!
+# React  Week!
 
 > Great things are done by a series of small things brought together
 
@@ -60,7 +60,7 @@
   - Up work
 
 16:00 - 17:00 
-  -  Props and state 
+  -  Props  
 
 
 
