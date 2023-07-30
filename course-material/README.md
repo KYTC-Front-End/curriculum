@@ -27,6 +27,8 @@
 - [Week19- API ](/course-material/Week19/)
 - [Week20- NPM ](/course-material/Week20/)
 - [Week21- React ](/course-material/Week21/)
+- [Week21- React component](/course-material/Week22/)
+
 
 
   
