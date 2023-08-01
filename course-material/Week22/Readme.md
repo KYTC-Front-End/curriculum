@@ -22,47 +22,54 @@
   
 
 - 10:00 - 11:00
- - [Morning Challenge](./Morning.md)
+  - [Morning Challenge](./Morning.md)
 
 - 11:00 - 13:00
- - [Js Classes](./classes.md)
+  - [Js Classes](./classes.md)
 
 - 13:00 - 14:00
- - [props Vs State](./props.md)
+  - [props Vs State](./props.md)
 
 — BREAK —
 
 - 15:00 - 17:00
-  - English 
+   - English 
 
 
 ## Day 2
  
 - 10:00 - 11:00
-  - Negotiation with clients 
+   - Negotiation with clients 
+
+- 11:00 - 12:00
+   - [Morning Challenge](./state.md)
+
+- 11:00 - 12:00
+   - Final project 
  
+ 
+- 12:00 - 14:00
+   - React life cycle
 
 — BREAK —
 
 - 15:00 - 17:00
-  - English
+   - English
 
 
 ## Day 3
  
 - 10:00 - 12:00
-  - 
+   - 
 
 - 12:00 - 14:00 
-    - 
-
+     - 
 — BREAK —
 
 15:00 - 16:00 
-  - 
-
+   - 
 16:00 - 17:00 
-  -  
+   -  
 
 
 
