@@ -13,11 +13,24 @@
 - [Resources.](./resources.md)
 - [Research Topics](./research-topics.md)
 
-  
+ ## Day 1
+ 
+- 10:00 - 12:00
+   - Final project
+
+- 12:00 - 14:00
+   - React Router 
+
+
+— BREAK —
+
+- 15:00 - 17:00
+   - Enterp
+ 
 
   
 
-## Day 1
+## Day 2
 
   
 
@@ -36,22 +49,6 @@
    -  Final project file structure 
 
 
-## Day 2
- 
-- 10:00 - 11:00
-   - 
-
-- 11:00 - 12:00
-   - 
-
-- 11:00 - 14:00
-   - 
- 
-
-— BREAK —
-
-- 15:00 - 17:00
-   - 
 
 
 ## Day 3
