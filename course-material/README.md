@@ -28,6 +28,8 @@
 - [Week20- NPM ](/course-material/Week20/)
 - [Week21- React ](/course-material/Week21/)
 - [Week22- React component](/course-material/Week22/)
+- [Week23- React Hook](/course-material/Week23/)
+
 
 
 
