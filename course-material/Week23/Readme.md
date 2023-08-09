@@ -49,19 +49,19 @@
    -  Final project file structure 
 
 
-
-
 ## Day 3
  
 - 10:00 - 12:00
-   - 
+   - Material UI 
 
-- 12:00 - 13:00 
-     - 
+- 12:00 - 14:00 
+     - project in react 
+
+   
 — BREAK —
 
 15:00 - 17:00 
-   - 
+   - Final Project 
 
 
 
